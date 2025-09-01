@@ -44,7 +44,7 @@ Mobile-friendly **Streamlit app** that predicts Titanic passenger survival using
 ### Prediction Page
 ![Prediction Page](https://raw.githubusercontent.com/bizimunda/Titanic-Survival-Predictor-app-ML-/main/predictor_survival.png)
 
-**Live App:** [Click here](https://your-streamlit-deployment-link)
+**Live App:** [Click here]([https://your-streamlit-deployment-link](https://hamid-titanic-survival-predictor-app.streamlit.app/))
 
 **GitHub Repo:** [Titanic Survival Predictor](https://github.com/bizimunda/Titanic-Survival-Predictor-app-ML-)
 
@@ -52,8 +52,7 @@ Mobile-friendly **Streamlit app** that predicts Titanic passenger survival using
 
 ## 📌 Contact Me
 - **Name:** Hamid
-- **Email:** <your_email>
-- **LinkedIn:** <your_linkedin_profile>
+- **LinkedIn:** <https://www.linkedin.com/in/muhammadhamid/>
 - **GitHub:** [@bizimunda](https://github.com/bizimunda)
 
 ---
